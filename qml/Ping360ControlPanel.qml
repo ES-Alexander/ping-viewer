@@ -179,8 +179,8 @@ PingGroupBox {
 
                 Layout.fillWidth: true
                 text: "Speed of Sound (m/s)"
-                from: 1450
-                to: 1550
+                from: 1300
+                to: 1600
 
                 Binding {
                     target: ping
